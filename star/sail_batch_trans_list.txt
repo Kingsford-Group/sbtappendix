@@ -1,0 +1,1 @@
+~/algae/ribomap/msq_s1000_t100_key.fa

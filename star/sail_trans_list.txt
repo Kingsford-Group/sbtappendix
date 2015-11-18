@@ -1,0 +1,3 @@
+/mnt/scratch1/salmonQueries/salmon_3_17/star_fasta/transcript_bf
+/mnt/scratch1/salmonQueries/salmon_3_17/star_fasta/transcript_df
+/mnt/scratch1/salmonQueries/salmon_3_17/star_fasta/transcript_cx

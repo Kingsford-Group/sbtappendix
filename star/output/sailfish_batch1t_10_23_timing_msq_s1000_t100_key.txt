@@ -1,0 +1,415 @@
+
+real	15m41.905s
+user	15m38.233s
+sys	0m1.108s
+
+real	8m2.442s
+user	7m59.473s
+sys	0m0.594s
+
+real	136m9.934s
+user	135m53.728s
+sys	0m7.371s
+
+real	21m46.204s
+user	21m42.939s
+sys	0m1.124s
+
+real	5m10.941s
+user	5m9.451s
+sys	0m0.376s
+
+real	16m19.785s
+user	16m14.349s
+sys	0m0.914s
+
+real	40m23.349s
+user	40m16.373s
+sys	0m3.373s
+
+real	96m24.618s
+user	96m11.194s
+sys	0m5.772s
+
+real	6m52.465s
+user	6m51.339s
+sys	0m0.512s
+
+real	41m29.196s
+user	41m14.677s
+sys	0m2.646s
+
+real	45m17.909s
+user	45m1.970s
+sys	0m2.881s
+
+real	50m31.838s
+user	50m14.668s
+sys	0m2.951s
+
+real	74m1.236s
+user	73m36.486s
+sys	0m4.145s
+
+real	36m3.614s
+user	35m51.609s
+sys	0m2.259s
+
+real	144m4.677s
+user	143m41.431s
+sys	0m11.413s
+
+real	159m17.093s
+user	158m51.232s
+sys	0m12.754s
+
+real	83m0.112s
+user	82m47.254s
+sys	0m6.169s
+
+real	86m52.299s
+user	86m38.255s
+sys	0m6.517s
+
+real	84m43.146s
+user	84m30.444s
+sys	0m5.960s
+
+real	85m45.411s
+user	85m31.496s
+sys	0m6.385s
+
+real	96m58.725s
+user	96m43.881s
+sys	0m7.141s
+
+real	105m46.032s
+user	105m28.674s
+sys	0m8.215s
+
+real	63m21.338s
+user	63m11.049s
+sys	0m5.057s
+
+real	73m48.894s
+user	73m36.931s
+sys	0m5.551s
+
+real	108m37.742s
+user	108m20.567s
+sys	0m8.229s
+
+real	521m49.779s
+user	520m41.200s
+sys	0m27.699s
+
+real	0m2.920s
+user	0m2.730s
+sys	0m0.076s
+
+real	0m3.019s
+user	0m2.917s
+sys	0m0.076s
+
+real	0m2.519s
+user	0m2.434s
+sys	0m0.070s
+
+real	0m1.760s
+user	0m1.682s
+sys	0m0.068s
+
+real	0m1.683s
+user	0m1.604s
+sys	0m0.068s
+
+real	0m1.558s
+user	0m1.457s
+sys	0m0.068s
+
+real	0m1.485s
+user	0m1.406s
+sys	0m0.068s
+
+real	0m1.110s
+user	0m1.015s
+sys	0m0.071s
+
+real	0m1.779s
+user	0m1.696s
+sys	0m0.073s
+
+real	0m9.426s
+user	0m9.332s
+sys	0m0.076s
+
+real	0m20.780s
+user	0m20.568s
+sys	0m0.114s
+
+real	56m40.214s
+user	56m32.884s
+sys	0m3.323s
+
+real	61m36.659s
+user	61m28.605s
+sys	0m3.841s
+
+real	55m18.862s
+user	55m11.530s
+sys	0m3.227s
+
+real	42m25.798s
+user	42m20.525s
+sys	0m2.366s
+
+real	25m54.086s
+user	25m46.908s
+sys	0m1.542s
+
+real	20m34.761s
+user	20m26.363s
+sys	0m1.397s
+
+real	441m8.279s
+user	440m13.727s
+sys	0m23.035s
+
+real	25m38.309s
+user	25m29.595s
+sys	0m1.962s
+
+real	58m48.405s
+user	58m41.258s
+sys	0m3.010s
+
+real	3m8.582s
+user	3m7.167s
+sys	0m0.282s
+
+real	98m58.762s
+user	98m45.540s
+sys	0m5.375s
+
+real	9m35.375s
+user	9m33.547s
+sys	0m0.611s
+
+real	12m0.983s
+user	11m58.872s
+sys	0m0.753s
+
+real	36m37.441s
+user	36m25.144s
+sys	0m2.496s
+
+real	65m35.123s
+user	65m25.809s
+sys	0m3.605s
+
+real	103m9.550s
+user	102m55.882s
+sys	0m5.573s
+
+real	21m55.681s
+user	21m52.538s
+sys	0m1.095s
+
+real	14m5.710s
+user	14m3.011s
+sys	0m0.733s
+
+real	4m29.208s
+user	4m27.451s
+sys	0m0.370s
+
+real	4m28.234s
+user	4m26.504s
+sys	0m0.357s
+
+real	0m29.571s
+user	0m29.173s
+sys	0m0.105s
+
+real	4m28.557s
+user	4m26.829s
+sys	0m0.355s
+
+real	6m24.723s
+user	6m22.896s
+sys	0m0.479s
+
+real	42m7.395s
+user	41m54.057s
+sys	0m2.988s
+
+real	253m22.204s
+user	252m30.738s
+sys	0m11.795s
+
+real	28m33.957s
+user	28m29.326s
+sys	0m2.193s
+
+real	67m20.838s
+user	67m3.406s
+sys	0m3.795s
+
+real	60m4.035s
+user	59m53.822s
+sys	0m5.137s
+
+real	25m4.168s
+user	24m59.656s
+sys	0m2.190s
+
+real	21m30.706s
+user	21m22.346s
+sys	0m1.453s
+
+real	19m53.065s
+user	19m45.425s
+sys	0m1.338s
+
+real	13m38.949s
+user	13m33.530s
+sys	0m0.924s
+
+real	15m2.655s
+user	14m56.698s
+sys	0m1.036s
+
+real	19m55.009s
+user	19m47.439s
+sys	0m1.303s
+
+real	62m1.933s
+user	61m48.990s
+sys	0m3.476s
+
+real	11m13.602s
+user	11m11.059s
+sys	0m0.763s
+
+real	10m21.217s
+user	10m18.767s
+sys	0m0.732s
+
+real	15m34.571s
+user	15m30.998s
+sys	0m1.141s
+
+real	65m3.414s
+user	64m55.240s
+sys	0m3.558s
+
+real	169m37.282s
+user	169m15.273s
+sys	0m9.017s
+
+real	19m19.516s
+user	19m16.890s
+sys	0m1.200s
+
+real	23m18.930s
+user	23m15.792s
+sys	0m1.479s
+
+real	44m34.488s
+user	44m28.501s
+sys	0m2.731s
+
+real	55m24.052s
+user	55m16.552s
+sys	0m3.322s
+
+real	171m48.097s
+user	171m27.536s
+sys	0m8.679s
+
+real	82m32.347s
+user	82m20.561s
+sys	0m4.779s
+
+real	28m15.154s
+user	28m11.068s
+sys	0m1.764s
+
+real	2m47.084s
+user	2m46.180s
+sys	0m0.263s
+
+real	412m56.298s
+user	411m58.086s
+sys	0m23.618s
+
+real	33m50.126s
+user	33m44.632s
+sys	0m2.738s
+
+real	69m5.123s
+user	68m55.009s
+sys	0m4.563s
+
+real	72m38.406s
+user	72m28.274s
+sys	0m4.612s
+
+real	64m9.549s
+user	64m0.331s
+sys	0m4.270s
+
+real	9m32.231s
+user	9m30.010s
+sys	0m0.668s
+
+real	43m8.042s
+user	42m59.660s
+sys	0m2.674s
+
+real	72m31.107s
+user	72m17.778s
+sys	0m3.687s
+
+real	53m22.978s
+user	53m5.159s
+sys	0m3.401s
+
+gzip: stdout: Broken pipe
+./run_ribomap.sh: line 271: 23341 Killed                  STAR --runThreadN $nproc --genomeDir ${transcript_idx} --readFilesIn ${rna_nrrna_fa} --readFilesCommand zcat --outFileNamePrefix ${ornaprefix} ${SAM_params} ${align_params}
+
+real	815m51.654s
+user	814m24.054s
+sys	0m36.432s
+
+gzip: stdout: Broken pipe
+
+real	1m19.238s
+user	1m18.507s
+sys	0m0.284s
+
+gzip: stdout: Broken pipe
+./run_ribomap.sh: line 271: 26660 Terminated              STAR --runThreadN $nproc --genomeDir ${transcript_idx} --readFilesIn ${rna_nrrna_fa} --readFilesCommand zcat --outFileNamePrefix ${ornaprefix} ${SAM_params} ${align_params}
+
+real	262m41.856s
+user	262m7.166s
+sys	0m14.160s
+
+gzip: stdout: Broken pipe
+
+real	181m20.293s
+user	180m55.267s
+sys	0m10.098s
+
+real	235m22.277s
+user	234m51.066s
+sys	0m12.679s
+
+gzip: stdout: Broken pipe
+./run_ribomap.sh: line 271: 30692 Terminated              STAR --runThreadN $nproc --genomeDir ${transcript_idx} --readFilesIn ${rna_nrrna_fa} --readFilesCommand zcat --outFileNamePrefix ${ornaprefix} ${SAM_params} ${align_params}
+
+real	8m42.682s
+user	8m41.377s
+sys	0m0.514s
+
+gzip: stdout: Broken pipe

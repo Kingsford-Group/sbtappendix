@@ -1,0 +1,190 @@
+Script Timed Out (5 Second wait). 
+Query: query_77 SRR353638
+Time: 295.861838102 10
+RID: 223VYA5X015
+Sleep Time: 10
+Script Timed Out (5 Second wait). 
+Query: query_81 SRR988502
+Time: 155.702425003 8
+RID: 224YZ2TS015
+Sleep Time: 8
+Script Timed Out (5 Second wait). 
+Query: query_66 SRR988509
+Time: 201.076350927 8
+RID: 2253VD5C015
+Sleep Time: 8
+Script Timed Out (5 Second wait). 
+Query: query_47 SRR827463
+Time: 46.2789571285 4
+RID: 225NXU0Z015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_9 SRR791578
+Time: 32.3322868347 2
+RID: 225RCA74015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_7 SRR191561
+Time: 2559.92686605 32
+RID: 226RY784015
+Sleep Time: 32
+Script Timed Out (5 Second wait). 
+Query: query_3 SRR770717
+Time: 2594.80210996 32
+RID: 229S71GJ015
+Sleep Time: 32
+Script Timed Out (5 Second wait). 
+Query: query_6 SRR557667
+Time: 2577.44102407 32
+RID: 22CANNK6015
+Sleep Time: 32
+Script Timed Out (5 Second wait). 
+Query: query_34 SRR950081
+Time: 249.219614983 10
+RID: 22F5B9VT015
+Sleep Time: 10
+Script Timed Out (5 Second wait). 
+Query: query_42 SRR522145
+Time: 34.2402088642 2
+RID: 22FD5AWY015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_56 SRR201983
+Time: 28.0043001175 2
+RID: 22FM8A74015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_12 SRR556766
+Time: 123.262125015 6
+RID: 22FWTDNN015
+Sleep Time: 6
+Script Timed Out (5 Second wait). 
+Query: query_64 SRR1294100
+Time: 36.0377671719 2
+RID: 22G37M7V015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_55 SRR299108
+Time: 23.9934060574 2
+RID: 22GBBTP0015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_60 SRR805778
+Time: 28.4596140385 2
+RID: 22GJDC1C015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_10 SRR764797
+Time: 77.5192780495 4
+RID: 22GNZHB0015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_10 SRR654043
+Time: 88.5180418491 6
+RID: 22GSCF2G015
+Sleep Time: 6
+Script Timed Out (5 Second wait). 
+Query: query_57 SRR1047816
+Time: 39.6011300087 2
+RID: 22GXJDNP015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_25 SRR764799
+Time: 91.9540820122 6
+RID: 22H93VRG015
+Sleep Time: 6
+Script Timed Out (5 Second wait). 
+Query: query_5 SRR1174334
+Time: 835.325564861 18
+RID: 22HRHCWT015
+Sleep Time: 18
+Script Timed Out (5 Second wait). 
+Query: query_5 SRR1012317
+Time: 2623.00848484 32
+RID: 22JHMTTT015
+Sleep Time: 32
+Script Timed Out (5 Second wait). 
+Query: query_92 SRR1106198
+Time: 28.6852340698 2
+RID: 22NMYNY7015
+Sleep Time: 2
+Script Timed Out (5 Second wait). 
+Query: query_79 SRR948741
+Time: 41.9618749619 4
+RID: 22P4MGUW015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_65 SRR1313153
+Time: 141.617890835 6
+RID: 22PAZFJ2015
+Sleep Time: 6
+Script Timed Out (5 Second wait). 
+Query: query_93 SRR1023797
+Time: 186.01073885 8
+RID: 22PGA65S015
+Sleep Time: 8
+Script Timed Out (5 Second wait). 
+Query: query_39 SRR191605
+Time: 1240.36016703 22
+RID: 22RNSBG2015
+Sleep Time: 22
+Script Timed Out (5 Second wait). 
+Query: query_39 SRR191681
+Time: 119.769162178 6
+RID: 22SWG9A9015
+Sleep Time: 6
+Script Timed Out (5 Second wait). 
+Query: query_33 SRR567134
+Time: 84.266023159 4
+RID: 22T08NXA015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_15 SRR1143451
+Time: 43.4596850872 4
+RID: 22TAXV4T015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_91 SRR1193570
+Time: 67.1632540226 4
+RID: 22TMMXUS015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_91 SRR805740
+Time: 54.1601071358 4
+RID: 22TPR7F1015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_48 SRR500882
+Time: 70.1971271038 4
+RID: 22TSD8F7015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_53 SRR943359
+Time: 79.387958765 4
+RID: 22TV4RW0015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_67 SRR1313077
+Time: 446.264971972 12
+RID: 22TY7MPV015
+Sleep Time: 12
+Script Timed Out (5 Second wait). 
+Query: query_38 SRR836286
+Time: 90.0815989971 6
+RID: 22UKMTKB015
+Sleep Time: 6
+Script Timed Out (5 Second wait). 
+Query: query_84 SRR791578
+Time: 167.578512907 8
+RID: 22V18ZA6015
+Sleep Time: 8
+Script Timed Out (5 Second wait). 
+Query: query_71 SRR1060761
+Time: 48.1529760361 4
+RID: 22V9UAHH015
+Sleep Time: 4
+Script Timed Out (5 Second wait). 
+Query: query_13 SRR1313140
+Time: 193.812162161 8
+RID: 22VC9A5V015
+Sleep Time: 8

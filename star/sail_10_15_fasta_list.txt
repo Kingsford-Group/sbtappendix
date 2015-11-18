@@ -1,0 +1,100 @@
+/mnt/scratch0/salmonFasta/SRR038300_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR039632_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR537114_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1012332_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1024141_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1033463_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1035695_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1035695_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1047817_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1047817_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1060774_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1060774_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1174334_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1193574_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1292581_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1294106_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1303626_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313077_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313077_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313078_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313078_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313092_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313092_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313097_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313097_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313105_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313105_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313120_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313120_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313154_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313154_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313156_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313156_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313198_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313198_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313216_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313216_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1313228_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1313228_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR1519066_1.fasta.gz /mnt/scratch0/salmonFasta/SRR1519066_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191403_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191429_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191455_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191463_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191480_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191487_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191494_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191527_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191555_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191563_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191621_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191646_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191675_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191693_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR191696_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR299111_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR306849_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR353653_1.fasta.gz /mnt/scratch0/salmonFasta/SRR353653_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR387778_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR393767_1.fasta.gz /mnt/scratch0/salmonFasta/SRR393767_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR403006_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR496397_1.fasta.gz /mnt/scratch0/salmonFasta/SRR496397_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR518951_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR518958_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR522081_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR537103_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR537105_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR557666_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR563529_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR566987_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR566995_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR567042_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR567057_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR570440_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR654043_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR764807_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR770718_1.fasta.gz /mnt/scratch0/salmonFasta/SRR770718_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR776496_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR791048_1.fasta.gz /mnt/scratch0/salmonFasta/SRR791048_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR791068_1.fasta.gz /mnt/scratch0/salmonFasta/SRR791068_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR805737_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR805741_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR805782_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR805788_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR805794_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR816998_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR837455_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR837469_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR837505_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR846935_1.fasta.gz /mnt/scratch0/salmonFasta/SRR846935_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR846951_1.fasta.gz /mnt/scratch0/salmonFasta/SRR846951_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR868816_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR868819_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR868833_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR868834_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR868860_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR868882_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR873384_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR882029_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR921941_1.fasta.gz /mnt/scratch0/salmonFasta/SRR921941_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR924258_1.fasta.gz /mnt/scratch0/salmonFasta/SRR924258_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR925689_1.fasta.gz /mnt/scratch0/salmonFasta/SRR925689_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR925721_1.fasta.gz /mnt/scratch0/salmonFasta/SRR925721_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR934640_1.fasta.gz /mnt/scratch0/salmonFasta/SRR934640_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR941568_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR941572_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR943354_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR948756_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR972712_1.fasta.gz /mnt/scratch0/salmonFasta/SRR972712_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR976238_1.fasta.gz
+/mnt/scratch0/salmonFasta/SRR976739_1.fasta.gz /mnt/scratch0/salmonFasta/SRR976739_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR976745_1.fasta.gz /mnt/scratch0/salmonFasta/SRR976745_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR976770_1.fasta.gz /mnt/scratch0/salmonFasta/SRR976770_2.fasta.gz
+/mnt/scratch0/salmonFasta/SRR976773_1.fasta.gz /mnt/scratch0/salmonFasta/SRR976773_2.fasta.gz
